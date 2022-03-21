@@ -1,2 +1,2 @@
 # template-system
-An abstraction to export data based on templates
+An abstraction to export data/documents based on templates
