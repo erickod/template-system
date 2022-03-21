@@ -1,0 +1,11 @@
+# .coveragerc
+[report]
+show_missing = True
+omit =
+    */__init_.py
+    */protocols/*
+
+[run]
+omit =
+    */__init_.py
+    */protocols/*
